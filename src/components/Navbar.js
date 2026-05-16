@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom'
 import { CgFileDocument } from 'react-icons/cg'
 
 import {
-  AiFillStar,
+  
   AiOutlineHome,
   AiOutlineFundProjectionScreen,
   AiOutlineUser,
