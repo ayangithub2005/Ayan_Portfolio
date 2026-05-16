@@ -16,19 +16,19 @@ https://ayan-portfolio-gamma.vercel.app/
 
 ### 💻 Skills Section
 
-![Skills](./readme-screenshots/skill.png)
+![Skills](./readme-screenshot/skill.png)
 
 ### 📁 Projects Section
 
-![Projects](./readme-screenshots/projects.png)
+![Projects](./readme-screenshot/projects.png)
 
 ### 📄 Resume Section
 
-![Resume](./readme-screenshots/resume.png)
+![Resume](./readme-screenshot/resume.png)
 
 ### 📞 Contact Page
 
-![Contact](./readme-screenshots/contactme.png)
+![Contact](./readme-screenshot/contactme.png)
 
 ---
 
