@@ -24,7 +24,7 @@ function Resume() {
   variant="primary"
   href={pdf}
   target="_blank"
-  download="Ayan_Kuila_CV.pdf"
+  rel="noreferrer"
 >
             <AiOutlineDownload />
             &nbsp;Download CV
@@ -81,7 +81,7 @@ function Resume() {
   variant="primary"
   href={pdf}
   target="_blank"
-  download="Ayan_Kuila_CV.pdf"
+  rel="noreferrer"
 >
             <AiOutlineDownload />
             &nbsp;Download CV
