@@ -31,8 +31,8 @@ function Projects() {
               isBlog={false}
               title="Personal Portfolio Website"
               description="A responsive personal portfolio website built using React.js to showcase my skills, projects and social profiles."
-              link="#"
-              liveLink="#"
+              link="https://github.com/ayangithub2005/Ayan_Portfolio"
+              liveLink="https://ayan-portfolio-gamma.vercel.app/"
             />
           </Col>
         </Row>
