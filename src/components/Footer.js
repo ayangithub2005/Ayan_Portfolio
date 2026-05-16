@@ -37,7 +37,7 @@ function Footer() {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <FaLinkedinIn />
+               <AiFillLinkedin />
               </a>
             </li>
           </ul>
