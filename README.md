@@ -6,6 +6,33 @@ This is my personal portfolio website built using React.js to showcase my skills
 
 https://ayan-portfolio-gamma.vercel.app/
 
+
+
+## 📸 Website Preview
+
+### 🏠 Home Page
+
+![Home](./readme-screenshot/homepage.png)
+
+### 💻 Skills Section
+
+![Skills](./readme-screenshots/skill.png)
+
+### 📁 Projects Section
+
+![Projects](./readme-screenshots/projects.png)
+
+### 📄 Resume Section
+
+![Resume](./readme-screenshots/resume.png)
+
+### 📞 Contact Page
+
+![Contact](./readme-screenshots/contactme.png)
+
+---
+
+
 ## 📌 Features
 
 - Responsive design for desktop and mobile
