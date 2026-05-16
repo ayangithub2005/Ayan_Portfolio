@@ -1,36 +1,59 @@
+# 🌐 Ayan Kuila - Personal Portfolio Website
 
-## Built With
+This is my personal portfolio website built using React.js to showcase my skills, projects, education and professional profile.
 
-My personal portfolio <a href="https://portfolio-mohitsojitra.vercel.app/" target="_blank">mohitsojitra</a> which features some of my github projects as well as my resume and technical skills.<br/>
+## 🚀 Live Website
 
-This project was built using these technologies.
+https://ayan-portfolio-gamma.vercel.app/
 
+## 📌 Features
+
+- Responsive design for desktop and mobile
+- About Me section
+- Professional Skills section
+- Education details
+- Projects showcase
+- Resume section
+- Contact page
+- GitHub and LinkedIn integration
+- Interactive animations and modern UI
+
+## 🛠 Tech Stack
+
+Frontend:
 - React.js
-- Node.js
-- Express.js
+- JavaScript
+- HTML5
 - CSS3
-- VsCode
+- Bootstrap
+
+Tools:
+- Git
+- GitHub
+- VS Code
 - Vercel
 
-## Features
-- **Fully Responsive**
-- **PWA portfolio (you can install in mobile and desktop)**
+## 📂 Project Structure
 
-## Getting Started
-
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
-
-## Installation and Setup Instructions
-
-1. Installation: `npm install`
-
-2. In the project directory, you can run: `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
+```bash
+src/
+ ├── components/
+ ├── Assets/
+ ├── App.js
+ ├── style.css
 
 
-### If You Like give ⭐
 
+
+⚙ Installation
+
+Clone repository: git clone https://github.com/ayangithub2005/Ayan_Portfolio.git
+
+
+Install Dependencies: npm install
+Run project: npm start
+
+📞 Contact
+Linkedln: https://www.linkedin.com/in/ayankuila/
+Github: https://github.com/ayangithub2005
 
