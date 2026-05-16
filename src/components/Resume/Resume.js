@@ -20,7 +20,12 @@ function Resume() {
 
         {/* Download Button Top */}
         <Row style={{ justifyContent: "center", position: "relative" }}>
-          <Button variant="primary" href={pdf} target="_blank">
+          <Button
+  variant="primary"
+  href={pdf}
+  target="_blank"
+  download="Ayan_Kuila_CV.pdf"
+>
             <AiOutlineDownload />
             &nbsp;Download CV
           </Button>
@@ -72,7 +77,12 @@ function Resume() {
 
         {/* Download Button Bottom */}
         <Row style={{ justifyContent: "center", position: "relative" }}>
-          <Button variant="primary" href={pdf} target="_blank">
+          <Button
+  variant="primary"
+  href={pdf}
+  target="_blank"
+  download="Ayan_Kuila_CV.pdf"
+>
             <AiOutlineDownload />
             &nbsp;Download CV
           </Button>
