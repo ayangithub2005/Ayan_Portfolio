@@ -8,7 +8,9 @@ import eCom from "../../Assets/Projects/portfolio.png";
 
 function Projects() {
   useEffect(() => {
-    ReactGA.pageview(window.location.pathname + window.location.search);
+    ReactGA.pageview(
+      window.location.pathname + window.location.search
+    );
   }, []);
 
   return (
@@ -24,16 +26,23 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
 
-        <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+        <Row
+          style={{
+            justifyContent: "center",
+            paddingBottom: "10px",
+          }}
+        >
           <Col md={4} className="project-card">
+
             <ProjectCard
               imgPath={eCom}
               isBlog={false}
               title="Personal Portfolio Website"
               description="A responsive personal portfolio website built using React.js to showcase my skills, projects and social profiles."
               link="https://github.com/ayangithub2005/Ayan_Portfolio"
-              liveLink="https://ayan-portfolio-gamma.vercel.app/"
+              liveLink="https://ayan-portfolio-gamma.vercel.app"
             />
+
           </Col>
         </Row>
       </Container>
